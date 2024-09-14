@@ -85,4 +85,9 @@ because discount is 1 - discount_rate that mean
 40% discount is 1 - 0.4 = 0.6
 50% discount is 1 - 0.5 = 0.5
 
+### Scenario-2
+Combo promotions
+
+### Suggest the most benefit Promotion for when it can use only one.
+if they have 5 of coupons then they can apply only one coupon when purchase which one give the most benefits for them.
 
